@@ -1,6 +1,6 @@
 stuffdir = $(datadir)/gmediarender
 stuff_DATA = \
-	grender-128x128.png \
-	grender-64x64.png
+	Smartlife-Icon-RGB-128x128.jpg \
+	Smartlife-Icon-RGB-64x64.jpg
 
 EXTRA_DIST = $(stuff_DATA)
